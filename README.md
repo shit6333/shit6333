@@ -1,4 +1,4 @@
-# <:alien:> Ricky planet 
+# <:alien:> Ricky Planet 
 
 #### Welcome~ please land here :rocket: :rocket:
 ![Ricky's github stats](https://github-readme-stats.vercel.app/api?username=shit6333&theme=flag-india)
