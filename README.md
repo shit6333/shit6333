@@ -4,7 +4,7 @@
 
 - [ 📓 Some of my Note](https://hackmd.io/@kk6333/HyAjZX3Ws/%2F9TO5xCsPQTiL-A-O5GHZ0A)
 
-![image](https://imgur.com/uV3amg6)
+![image]([https://imgur.com/uV3amg6](https://imgur.com/gallery/uV3amg6))
 
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
 
